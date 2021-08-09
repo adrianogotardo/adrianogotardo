@@ -2,7 +2,7 @@
 
 I hope you're having a good day!
 
-- 🔭 I’m currently working on my full-stack web developer curriculum through the development of various small educative projects.
+- 🔭 I’m currently working on my full-stack web developer curriculum through the development of various small educative projects in an intensive bootcamp.
 - 🌱 I’m currently learning the following tecnologies: HTML5, CSS3, JavaScript, React, Node.js, Postgres, Git & GitHub.
 - 👯 I’m looking to collaborate on any projects that use some of the areas above. So, if you're a web dev and want to practice some GitHub skills of collab work, count me in!
 - 💬 Ask me about anything! I love to meet new peole and will be glad to answer.
