@@ -1,6 +1,6 @@
 ### Hi there 👋 how are you?
 
-Hope you're having a nice day! I'm Adriano Gotardo and I'm currently a student at https://driveneducation.com.br/.
+Hope you're having a nice day! I'm Adriano Gotardo and I'm currently a fullstack web dev tutor at https://driveneducation.com.br/.
 
 - 🔭 I’m working on my full-stack web developer curriculum through the development of various small educative projects in an intensive bootcamp.
 - 🌱 Right now I'm learning the following tecnologies: HTML5, CSS3, JavaScript, React, Node.js, Postgres, Git & GitHub.
