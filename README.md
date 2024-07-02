@@ -6,7 +6,7 @@ Hope you're having a nice day! I'm Adriano Gotardo and I'm currently a fullstack
 - 🌱 Right now I'm learning the following tecnologies: HTML5, CSS3, JavaScript, React, Node.js, Postgres, Git & GitHub.
 - 👯 I’m always willing to collaborate on any projects that use some of the areas above. So, if you're a web dev and want to practice some GitHub skills of collab work, count me in!
 - 💬 Ask me about anything! I love to meet new peole and will be glad to answer any questions.
-- 📫 Reach me through adrianogotardo.12gmail.com
+- 📫 Reach me through adrianogotardo.12@gmail.com
 - 😄 My pronouns are he/him.
 - ⚡ Fun fact: I'm a triplet with two sisters! How cool is that?
 
